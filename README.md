@@ -1,4 +1,4 @@
 # Resume
-Know about my skills more
+Know more about my skills 
 
 Learnt my first Github command git clone!
